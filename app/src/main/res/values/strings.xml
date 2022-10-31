@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Pertemuan3_View</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="app_name">Hiraeth_Kitchen</string>
     <string name="deskription_menu">1</string>
     <string name="ingredients">2</string>
     <string name="Resep">3</string>
